@@ -13,7 +13,7 @@ inc
 xander
 subscriber
 support
-git
+admin
 consultant
 judith
 contractor
